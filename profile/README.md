@@ -1,9 +1,5 @@
-# NCU Coffee Club
-
-Welcome to the NCU Coffee Club GitHub organization! ☕️
-
 ## About Us
-![alt text](292208087_491598696103962_2513444825577700158_n.jpg)
+![image](https://github.com/NCU-coffee-club/.github/assets/91242001/a5513ef6-17d5-4de5-93b5-d4bcb9ad4c3c)
 
 NCU Coffee Club is a student-run organization at NCU (Your University Name) dedicated to bringing together coffee enthusiasts from all walks of life. Whether you're a seasoned coffee connoisseur or just starting to explore the world of coffee, our club provides a welcoming space to connect, learn, and share our passion for coffee.
 
