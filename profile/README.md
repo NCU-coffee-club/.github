@@ -9,17 +9,7 @@ Membership in NCU Coffee Club is open to all students, faculty, and staff at NCU
 
 ## Activities
 
-### Coffee Tasting Sessions
-
-We regularly host coffee tasting sessions where members can sample a variety of coffees sourced from different regions and roasters. These sessions provide an opportunity to explore the diverse flavors of coffee and learn about the origin, processing, and brewing methods.
-
-### Brewing Workshops
-
-Our brewing workshops cover a range of techniques, including pour-over, French press, AeroPress, and espresso. Led by experienced members or guest baristas, these hands-on workshops offer valuable insights and tips for brewing cafe-quality coffee at home or in the dorm.
-
-### Coffee Study Sessions
-
-Need a caffeine boost while studying for exams or working on assignments? Join us for coffee study sessions where we provide free coffee and a supportive study environment. It's a great way to fuel your productivity and connect with fellow students over a shared love for coffee.
+Explore a range of coffee experiences with our Brewing Workshops, Study Sessions, and Tasting Classes. Engage in hands-on brewing techniques such as pour-over and espresso, fuel your productivity with free coffee while connecting with peers, and delve into the diverse flavors of coffee from various regions and roasters.
 
 ## Open Projects
 
